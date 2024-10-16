@@ -20,74 +20,7 @@ except:
     pass
 
 st.subheader("Una pequeña canción.")
-st.write("Yo soy tu gominola
-        Yo soy tu gominola
-        Osito gomi gomi gomi
-        Gomi gominola
-        Yo soy tu gominola
-        Yo soy tu gominola
-        Osito gomi gomi
-        Dulce gomi gomi
-        Gomi gominola oeo
-        Gomi gomi gomi
-        Gomi gominola
-        Gomi gomi gomi
-        Gomi gominola
-        Baile, and gomi fiesta
-        Baile, and gomi fiesta
-        Breding and gomi fiesta
-        Fiesta pop
-        Baile, and gomi fiesta
-        Baile, and gomi fiesta
-        Breding and gomi fiesta
-        Fiesta pop
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Gomi gomi gomi
-        Gomi gominola
-        Baile, and gomi fiesta
-        Baile, and gomi fiesta
-        Breding and gomi fiesta
-        Fiesta pop
-        Baile, and gomi fiesta
-        Baile, and gomi fiesta
-        Breding and gomi fiesta
-        Fiesta pop
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Tres besitos dulces
-        Los amos del can-can
-        No tenemos pelo
-        Y cantamos un refrán
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Gomi gomi gomi
-        Gomi gominola
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Pa pa virovirovirulo
-        Pa pa virovirovirulo
-        Tres besitos dulces
-        Fiesta pop
-        Fiesta pop
-        Fiesta pop
-        Fiesta pop"
-        )
+st.write("Yo soy tu gominola Yo soy tu gominola Osito gomi gomi gomi Gomi gominola Yo soy tu gominola Yo soy tu gominola Osito gomi gomi Dulce gomi gomi Gomi gominola oeo Gomi gomi gomi Gomi gominola Gomi gomi gomi Gomi gominola Baile, and gomi fiesta Baile, and gomi fiesta Breding and gomi fiesta Fiesta pop")
         
         
            
