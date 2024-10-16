@@ -24,7 +24,7 @@ st.write("Yo soy tu gominola Yo soy tu gominola Osito gomi gomi gomi Gomi gomino
         
         
            
-st.markdown(f"Quieres escucharlo?, copia el texto")
+st.markdown(f"¿Quieres escucharlo? Copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
 
 tld='com'
