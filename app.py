@@ -20,7 +20,7 @@ except:
     pass
 
 st.subheader("Una pequeña canción.")
-st.write('Yo soy tu gominola
+st.write("Yo soy tu gominola
 Yo soy tu gominola
 Osito gomi gomi gomi
 Gomi gominola
@@ -86,9 +86,9 @@ Tres besitos dulces
 Fiesta pop
 Fiesta pop
 Fiesta pop
-Fiesta pop'
+Fiesta pop")
         
-        )
+        
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
